@@ -2,6 +2,7 @@
 个人成果简介
 
 近5年发表的论文：
+
 [1] Ming Chen; Yajian Jiang; Xiujuan Lei; Yi Pan*; Chunyan Ji. Drug-target interactions prediction based on signed heterogenous graph neural networks[J]. Chinese Journal of Electronics. (约稿论文，已录用)
 
 [2] Lin Guo; Xiujuan Lei; Ming Chen; Yi Pan*. MSResG: Using GAE and residual GCN to predict drug-drug interactions based on multi-source drug features[J]. Interdisciplinary Sciences: Computational Life Sciences, 2023. (SCI收录)
@@ -27,6 +28,7 @@
 [12] 马华; 姜伟; 陈明*; 钟世杰. 基于图滤波器的符号属性图链路关系预测算法[J]. 计算机技术与发展, 2023. (已录用)
 
 所指导研究生的毕业论文：
+
 [1] 杨予丹. 基于加权符号图聚类和马尔科夫随机场的图像分割[D]. 湖南师范大学, 2018.
 
 [2] 杨梦婷. 基于符号网络的半监督谱聚类[D]. 湖南师范大学, 2019.
@@ -41,9 +43,11 @@
 
  
 申请了如下专利与软件著作权：
+
 1.专利：一种基于符号图神经网络的链路预测方法及装置， 申请号202211191189.8
 
 2. 软件著作权：
+
 [1] 基于图神经网络的数据分析软件，2020SR0309313.
 
 [2] 基于图卷积神经网络的药物互作用预测“数据共享及展示平台”，2021SR1585217.
