@@ -3,7 +3,7 @@
 
 **近5年发表的论文：**
 
-[1] **Ming Chen**; Yajian Jiang; Xiujuan Lei; Yi Pan*; Chunyan Ji. Drug-target interactions prediction based on signed heterogenous graph neural networks[J]. Chinese Journal of Electronics. (约稿论文，已录用)
+[1] **Ming Chen**; Yajian Jiang; Xiujuan Lei; Yi Pan*; Chunyan Ji. Drug-target interactions prediction based on signed heterogenous graph neural networks[J]. Chinese Journal of Electronics. (已录用)
 
 [2] Lin Guo; Xiujuan Lei; **Ming Chen**; Yi Pan*. MSResG: Using GAE and residual GCN to predict drug-drug interactions based on multi-source drug features[J]. Interdisciplinary Sciences: Computational Life Sciences, 2023. (SCI收录)
 
