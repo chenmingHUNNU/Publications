@@ -1,33 +1,33 @@
 # Publications
 个人成果简介
 
-近5年发表的论文：
+**近5年发表的论文：**
 
-[1] Ming Chen; Yajian Jiang; Xiujuan Lei; Yi Pan*; Chunyan Ji. Drug-target interactions prediction based on signed heterogenous graph neural networks[J]. Chinese Journal of Electronics. (约稿论文，已录用)
+[1] **Ming Chen**; Yajian Jiang; Xiujuan Lei; Yi Pan*; Chunyan Ji. Drug-target interactions prediction based on signed heterogenous graph neural networks[J]. Chinese Journal of Electronics. (约稿论文，已录用)
 
-[2] Lin Guo; Xiujuan Lei; Ming Chen; Yi Pan*. MSResG: Using GAE and residual GCN to predict drug-drug interactions based on multi-source drug features[J]. Interdisciplinary Sciences: Computational Life Sciences, 2023. (SCI收录)
+[2] Lin Guo; Xiujuan Lei; **Ming Chen**; Yi Pan*. MSResG: Using GAE and residual GCN to predict drug-drug interactions based on multi-source drug features[J]. Interdisciplinary Sciences: Computational Life Sciences, 2023. (SCI收录)
 
-[3] Ming Chen; Wei Jiang; Yi Pan*; Jianhua Dai; Yunwen Lei; Chunyan Ji. SGFNNs: Signed graph filtering-based neural networks for predicting drug-drug interactions[J]. Journal of Computational Biology, 2022, 29(10): 1104-1116. (SCI收录)
+[3] **Ming Chen**; Wei Jiang; Yi Pan*; Jianhua Dai; Yunwen Lei; Chunyan Ji. SGFNNs: Signed graph filtering-based neural networks for predicting drug-drug interactions[J]. Journal of Computational Biology, 2022, 29(10): 1104-1116. (SCI收录)
 
-[4] Chunyan Ji; Yang Jiao; Ming Chen*; Yi Pan*; Infant cry classification based-on feature fusion and mel-spectrogram decomposition with CNNs[C]. In Proceedings of the 11th International Conference on Artificial Intelligence and Mobile Services(AIMS), 2022: 126-134.(EI 收录)
+[4] Chunyan Ji; Yang Jiao;__Ming Chen*__; Yi Pan*; Infant cry classification based-on feature fusion and mel-spectrogram decomposition with CNNs[C]. In Proceedings of the 11th International Conference on Artificial Intelligence and Mobile Services(AIMS), 2022: 126-134.(EI 收录)
 
-[5] Ming Chen; Yi Pan*; Chunyan Ji. Predicting drug-drug interactions with signed graph filtering-based convolutional networks[C]. In Proceedings of the International Symposium on Bioinformatics Research and Applications(ISBRA), 2021: 375-387. (CCF C类会议)
+[5] __Ming Chen__; Yi Pan*; Chunyan Ji. Predicting drug-drug interactions with signed graph filtering-based convolutional networks[C]. In Proceedings of the International Symposium on Bioinformatics Research and Applications(ISBRA), 2021: 375-387. (CCF C类会议)
 
-[6] Chunyan Ji; Ming Chen; Bin Li; Yi Pan*. Infant cry classification with graph convolutional networks[C]. In Proceedings of the IEEE 6th International Conference on Computer and Communication Systems(ICCCS), 2021: 322-327.(EI收录)
+[6] Chunyan Ji; __Ming Chen__; Bin Li; Yi Pan*. Infant cry classification with graph convolutional networks[C]. In Proceedings of the IEEE 6th International Conference on Computer and Communication Systems(ICCCS), 2021: 322-327.(EI收录)
 
-[7] 刘先锋; 石静; 陈明*. 基于符号图规范化割的半监督学习与图像分割[J]. 小型微型计算机系统, 2020, 41(7): 1547-1552. 
+[7] 刘先锋; 石静; __陈明*__. 基于符号图规范化割的半监督学习与图像分割[J]. 小型微型计算机系统, 2020, 41(7): 1547-1552. 
 
-[8] Ming Chen; Yunwen Lei; Lixin Ding; Zhao Tong. Convergence in probability on a big class of time-variant evolutionary algorithms[J]. International Journal of Pattern Recognition and Artificial Intelligence, 2019, 33(06): 1959018. (34页长文, SCI收录, CCF C类期刊)
+[8] __Ming Chen__; Yunwen Lei; Lixin Ding; Zhao Tong. Convergence in probability on a big class of time-variant evolutionary algorithms[J]. International Journal of Pattern Recognition and Artificial Intelligence, 2019, 33(06): 1959018. (34页长文, SCI收录, CCF C类期刊)
 
-[9] 陈明; 林益贤. 一种结合GMM和活动轮廓的混合型图像分割方法[J]. 小型微型计算机系统, 2018, 39(08): 1855-1859.
+[9] __陈明__; 林益贤. 一种结合GMM和活动轮廓的混合型图像分割方法[J]. 小型微型计算机系统, 2018, 39(08): 1855-1859.
 
-[10] Huang Tan; Ming Chen*; Qiaoliang Li; Shaojun Qu. A novel level set model for image segmentation with interactive label regularization term[C]. In Proceedings of the 1st CCF Chinese Conference on Computer Vision(CCCV), 2017: 220-232. (EI收录) 
+[10] Huang Tan; __Ming Chen*__; Qiaoliang Li; Shaojun Qu. A novel level set model for image segmentation with interactive label regularization term[C]. In Proceedings of the 1st CCF Chinese Conference on Computer Vision(CCCV), 2017: 220-232. (EI收录) 
 
-[11] 陈明; 钟世杰; 刘先锋; 肖球. 基于符号图谱与卷积网络的药物互作用关系预测[J]. 计算机软件与应用, 2023. (已录用)
+[11] __陈明__; 钟世杰; 刘先锋; 肖球. 基于符号图谱与卷积网络的药物互作用关系预测[J]. 计算机软件与应用, 2023. (已录用)
 
-[12] 马华; 姜伟; 陈明*; 钟世杰. 基于图滤波器的符号属性图链路关系预测算法[J]. 计算机技术与发展, 2023. (已录用)
+[12] 马华; 姜伟; __陈明*__; 钟世杰. 基于图滤波器的符号属性图链路关系预测算法[J]. 计算机技术与发展, 2023. (已录用)
 
-所指导研究生的毕业论文：
+__所指导研究生的毕业论文：__
 
 [1] 杨予丹. 基于加权符号图聚类和马尔科夫随机场的图像分割[D]. 湖南师范大学, 2018.
 
@@ -41,7 +41,7 @@
 
 [6] 钟世杰. 基于符号图谱与卷积网络的药物互作用关系预测[D]. 湖南师范大学, 2022.
 
-申请了如下专利与软件著作权：
+__申请了如下专利与软件著作权：__
 
 1.专利：
 一种基于符号图神经网络的链路预测方法及装置， 申请号202211191189.8
