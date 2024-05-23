@@ -6,7 +6,7 @@
 
 [1] **Ming Chen**; Yajian Jiang; Xiujuan Lei; Yi Pan*; Chunyan Ji,Wei Jiang. Drug-target interactions prediction based on signed heterogenous graph neural networks[J]. Chinese Journal of Electronics, 2024. https://doi.org/10.23919/cje.2022.00.384.
 
-[2] **Ming Chen**; Zitao Hu; Zhao Tong; Xiujuan Lei; Chunyan Ji; Yi Pan*. Multi-filter based signed grah convolutional network forpredicting interactions on drug networks [C]. In Proceedings of the International Symposium on Bioinformatics Research and Applications(ISBRA), 2024, in press . (CCF C类会议)
+[2] **Ming Chen**; Zitao Hu; Zhao Tong; Xiujuan Lei; Chunyan Ji; Yi Pan*. Multi-filter based signed grah convolutional network for predicting interactions on drug networks [C]. In Proceedings of the International Symposium on Bioinformatics Research and Applications(ISBRA), 2024, in press . (CCF C类会议)
 
 [3] Lin Guo; Xiujuan Lei; **Ming Chen**; Yi Pan*. MSResG: Using GAE and residual GCN to predict drug-drug interactions based on multi-source drug features[J]. Interdisciplinary Sciences: Computational Life Sciences, 2023. (SCI收录)
 
@@ -22,13 +22,11 @@
 
 [9] __Ming Chen__; Yunwen Lei; Lixin Ding; Zhao Tong. Convergence in probability on a big class of time-variant evolutionary algorithms[J]. International Journal of Pattern Recognition and Artificial Intelligence, 2019, 33(06): 1959018. (34页长文, SCI收录, CCF C类期刊)
 
-[10] __陈明__; 林益贤. 一种结合GMM和活动轮廓的混合型图像分割方法[J]. 小型微型计算机系统, 2018, 39(08): 1855-1859.
+[10] __陈明__; 钟世杰; 刘先锋; 肖球. 基于符号图谱与卷积网络的药物互作用关系预测[J]. 计算机软件与应用, 2023. (已录用)
 
-[11] __陈明__; 钟世杰; 刘先锋; 肖球. 基于符号图谱与卷积网络的药物互作用关系预测[J]. 计算机软件与应用, 2023. (已录用)
+[11] 马华; 姜伟; __陈明*__; 钟世杰. 基于图滤波器的符号属性图链路关系预测算法[J]. 计算机技术与发展, 2023. (已录用)
 
-[12] 马华; 姜伟; __陈明*__; 钟世杰. 基于图滤波器的符号属性图链路关系预测算法[J]. 计算机技术与发展, 2023. (已录用)
-
-[13] 陈明; 姚斌; 马华*. 基于磁性符号图神经网络的药物互作用关系预测[J]. 计算机技术与发展, 2024. (已录用)
+[12] 陈明; 姚斌; 马华*. 基于磁性符号图神经网络的药物互作用关系预测[J]. 计算机技术与发展, 2024. (已录用)
 
 __所指导研究生的毕业论文：__
 
@@ -49,19 +47,3 @@ __所指导研究生的毕业论文：__
 [8] 蒋亚健. 基于符号异构网络的药物靶标相互作用预测算法研究[D]. 湖南师范大学, 2023.
 
 [9] 姚斌. 面向生物数据的符号图信号处理与谱图神经网络研究[D]. 湖南师范大学, 2024.
-
-
-__申请的专利与软件著作权：__
-
-1.专利：
-一种基于符号图神经网络的链路预测方法及装置， 申请号202211191189.8
-
-2.软件著作权：
-
-[1] 基于图神经网络的数据分析软件，2020SR0309313.
-
-[2] 基于图卷积神经网络的药物互作用预测“数据共享及展示平台”，2021SR1585217.
-
-[3] 基于符号网络的药物靶标关系预测查询软件，2022SR0218438.
-
-
