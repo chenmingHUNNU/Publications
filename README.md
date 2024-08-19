@@ -1,12 +1,13 @@
-
 # Publications
-个人成果简介
+
+
+__个人成果简介__
 
 **近5年发表的论文：**
 
-[1] **Ming Chen**; Yajian Jiang; Xiujuan Lei; Yi Pan*; Chunyan Ji,Wei Jiang. Drug-target interactions prediction based on signed heterogenous graph neural networks[J]. Chinese Journal of Electronics, 2024. https://doi.org/10.23919/cje.2022.00.384.
+[1] **Ming Chen**; Yajian Jiang; Xiujuan Lei; Yi Pan*; Chunyan Ji,Wei Jiang. Drug-target interactions prediction based on signed heterogenous graph neural networks[J]. Chinese Journal of Electronics, 2024, 33(1): 231-244. https://doi.org/10.23919/cje.2022.00.384.
 
-[2] **Ming Chen**; Zitao Hu; Zhao Tong; Xiujuan Lei; Chunyan Ji; Yi Pan*. Multi-filter based signed grah convolutional network for predicting interactions on drug networks [C]. In Proceedings of the International Symposium on Bioinformatics Research and Applications(ISBRA), 2024, in press . (CCF C类会议)
+[2] **Ming Chen**; Zitao Hu; Zhao Tong; Xiujuan Lei; Chunyan Ji; Yi Pan*. Multi-filter based signed grah convolutional network for predicting interactions on drug networks [C]. In Proceedings of the International Symposium on Bioinformatics Research and Applications(ISBRA), 2024: 315-326 . (CCF C类会议)
 
 [3] Lin Guo; Xiujuan Lei; **Ming Chen**; Yi Pan*. MSResG: Using GAE and residual GCN to predict drug-drug interactions based on multi-source drug features[J]. Interdisciplinary Sciences: Computational Life Sciences, 2023. (SCI收录)
 
@@ -22,11 +23,12 @@
 
 [9] __Ming Chen__; Yunwen Lei; Lixin Ding; Zhao Tong. Convergence in probability on a big class of time-variant evolutionary algorithms[J]. International Journal of Pattern Recognition and Artificial Intelligence, 2019, 33(06): 1959018. (34页长文, SCI收录, CCF C类期刊)
 
-[10] __陈明__; 钟世杰; 刘先锋; 肖球. 基于符号图谱与卷积网络的药物互作用关系预测[J]. 计算机软件与应用, 2023. (已录用)
 
-[11] 马华; 姜伟; __陈明*__; 钟世杰. 基于图滤波器的符号属性图链路关系预测算法[J]. 计算机技术与发展, 2023. (已录用)
+__在研项目：__
+[1] 湖南省科技厅，自然科学基金面上项目，2023JJ30411，符号图信号处理与图神经网络及其应用研究，2023.1-2025.12，主持
 
-[12] 陈明; 姚斌; 马华*. 基于磁性符号图神经网络的药物互作用关系预测[J]. 计算机技术与发展, 2024. (已录用)
+[2] 湖南省教育厅科学研究项目优秀青年项目，22B0097，基于图信号处理的符号图聚类及其在生物网络的应用研究，2023/01-2025/12，主持
+
 
 __所指导研究生的毕业论文：__
 
