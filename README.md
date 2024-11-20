@@ -7,15 +7,15 @@ __个人成果简介__
 
 [1] __Ming Chen__, Yunhan Pan, Yinglong Dai, Xiujuan Lei, Chunyan Ji, Yi Pan*. MKMGCN-DDI: Predicting Drug-drug Interactions via Magnetic Graph Convolutional Network with Multiple Kernels[J]. IEEE Transactions on Computational Biology and Bioinformatics. https://doi.org/10.1109/TCBBIO.2024.3502507. (CCF B类 期刊)
 
-[2]  Lin Guo, Xiujuan Lei , Lian Liu , __Ming Chen__,,  Yi Pan*.  DualC: Drug-Drug Interaction Prediction Based on Dual Latent Feature Extractions[J].  IEEE Transactions on Emerging Topics in Computational Intelligence. https://doi.org/10.1109/TETCI.2024.3502414.
+[2]  Lin Guo, Xiujuan Lei , Lian Liu , __Ming Chen__,  Yi Pan*.  DualC: Drug-Drug Interaction Prediction Based on Dual Latent Feature Extractions[J].  IEEE Transactions on Emerging Topics in Computational Intelligence. https://doi.org/10.1109/TETCI.2024.3502414.
 
-[3] __Ming Chen__,, Yajian Jiang, Xiujuan Lei, Yi Pan*, Chunyan Ji,Wei Jiang. Drug-target interactions prediction based on signed heterogenous graph neural networks[J]. Chinese Journal of Electronics, 2024, 33(1): 231-244. https://doi.org/10.23919/cje.2022.00.384.
+[3] __Ming Chen__, Yajian Jiang, Xiujuan Lei, Yi Pan*, Chunyan Ji,Wei Jiang. Drug-target interactions prediction based on signed heterogenous graph neural networks[J]. Chinese Journal of Electronics, 2024, 33(1): 231-244. https://doi.org/10.23919/cje.2022.00.384.
 
-[4] __Ming Chen__,, Zitao Hu, Zhao Tong, Xiujuan Lei, Chunyan Ji, Yi Pan*. Multi-filter based signed grah convolutional network for predicting interactions on drug networks [C]. In Proceedings of the International Symposium on Bioinformatics Research and Applications(ISBRA), 2024: 315-326 . (CCF C类会议)
+[4] __Ming Chen__, Zitao Hu, Zhao Tong, Xiujuan Lei, Chunyan Ji, Yi Pan*. Multi-filter based signed grah convolutional network for predicting interactions on drug networks [C]. In Proceedings of the International Symposium on Bioinformatics Research and Applications(ISBRA), 2024: 315-326 . (CCF C类会议)
 
-[5] Lin Guo, Xiujuan Lei, __Ming Chen__,, Yi Pan*. MSResG: Using GAE and residual GCN to predict drug-drug interactions based on multi-source drug features[J]. Interdisciplinary Sciences: Computational Life Sciences, 2023. (SCI收录)
+[5] Lin Guo, Xiujuan Lei, __Ming Chen__, Yi Pan*. MSResG: Using GAE and residual GCN to predict drug-drug interactions based on multi-source drug features[J]. Interdisciplinary Sciences: Computational Life Sciences, 2023. (SCI收录)
 
-[6] __Ming Chen__,, Wei Jiang, Yi Pan*, Jianhua Dai, Yunwen Lei, Chunyan Ji. SGFNNs: Signed graph filtering-based neural networks for predicting drug-drug interactions[J]. Journal of Computational Biology, 2022, 29(10): 1104-1116. (SCI收录)
+[6] __Ming Chen__, Wei Jiang, Yi Pan*, Jianhua Dai, Yunwen Lei, Chunyan Ji. SGFNNs: Signed graph filtering-based neural networks for predicting drug-drug interactions[J]. Journal of Computational Biology, 2022, 29(10): 1104-1116. (SCI收录)
 
 [7] Chunyan Ji, Yang Jiao,__Ming Chen__, Yi Pan*, Infant cry classification based-on feature fusion and mel-spectrogram decomposition with CNNs[C]. In Proceedings of the 11th International Conference on Artificial Intelligence and Mobile Services(AIMS), 2022: 126-134.(EI 收录)
 
