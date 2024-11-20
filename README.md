@@ -5,7 +5,7 @@ __个人成果简介__
 
 **近年发表的论文：**
 
-[1] __Ming Chen__, Yunhan Pan, Yinglong Dai, Xiujuan Lei, Chunyan Ji, Yi Pan*. MKMGCN-DDI: Predicting Drug-drug Interactions via Magnetic Graph Convolutional Network with Multiple Kernels[J]. IEEE Transactions on Computational Biology and Bioinformatics. https://doi.org/10.1109/TCBBIO.2024.3502507. (CCF B类 期刊)
+[1] __Ming Chen#__, Yunhan Pan#, Yinglong Dai, Xiujuan Lei, Chunyan Ji, Yi Pan*. MKMGCN-DDI: Predicting Drug-drug Interactions via Magnetic Graph Convolutional Network with Multiple Kernels[J]. IEEE Transactions on Computational Biology and Bioinformatics. https://doi.org/10.1109/TCBBIO.2024.3502507. (CCF B类 期刊)
 
 [2]  Lin Guo, Xiujuan Lei , Lian Liu , __Ming Chen__,  Yi Pan*.  DualC: Drug-Drug Interaction Prediction Based on Dual Latent Feature Extractions[J].  IEEE Transactions on Emerging Topics in Computational Intelligence. https://doi.org/10.1109/TETCI.2024.3502414.
 
